@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Atharvaa99
-- 👀 I’m interested in web + AI development 
-- 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me atharvadhaigude@icloud.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
+# Hi, I'm Atharva 👋
 
-<!---
-Atharvaa99/Atharvaa99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Developer in the Making — passionate about building modern, responsive websites that deliver great user experiences.
+
+## 💻 What I Can Do
+
+- ✨ Clean, semantic HTML
+- 🎨 Advanced CSS — layout systems (Flexbox, Grid), responsive design, animations, container queries
+- 📱 Fully responsive layouts
+- 🧠 Currently learning JavaScript & Python (web interactivity + backend foundations)
+
+## 🚀 Projects
+
+Explore my repositories to see:
+- Daily web layout challenges
+- Real-world UI component builds
+- Responsive web templates
+
+## 🔧 Tools & Tech
+
+HTML • CSS • GitHub • VS Code  
+Learning: JavaScript • Python
+
+## 📬 Let’s Collaborate
+
+I'm open to freelance projects, landing pages, portfolio sites, or UI builds.  
+📫 Reach me at: [your email] or via GitHub DMs.
+
+---
+
+> "Code. Improve. Repeat."
